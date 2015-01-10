@@ -16,6 +16,7 @@
 		B990C1AD1A61BC2C0037EA6F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B990C1AB1A61BC2C0037EA6F /* LaunchScreen.xib */; };
 		B990C1B91A61BC2C0037EA6F /* _DentistTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B990C1B81A61BC2C0037EA6F /* _DentistTests.m */; };
 		B990C1C31A61BCDA0037EA6F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B990C1C21A61BCDA0037EA6F /* logo.png */; };
+		B990C1C51A61BF950037EA6F /* PeriodonciaDentalium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B990C1C41A61BF950037EA6F /* PeriodonciaDentalium.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B990C1B71A61BC2C0037EA6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B990C1B81A61BC2C0037EA6F /* _DentistTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _DentistTests.m; sourceTree = "<group>"; };
 		B990C1C21A61BCDA0037EA6F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		B990C1C41A61BF950037EA6F /* PeriodonciaDentalium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PeriodonciaDentalium.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				B990C1A41A61BC2C0037EA6F /* SecondViewController.m */,
 				B990C1A61A61BC2C0037EA6F /* Main.storyboard */,
 				B990C1A91A61BC2C0037EA6F /* Images.xcassets */,
+				B990C1C41A61BF950037EA6F /* PeriodonciaDentalium.jpg */,
 				B990C1C21A61BCDA0037EA6F /* logo.png */,
 				B990C1AB1A61BC2C0037EA6F /* LaunchScreen.xib */,
 				B990C1991A61BC2C0037EA6F /* Supporting Files */,
@@ -207,6 +210,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B990C1C51A61BF950037EA6F /* PeriodonciaDentalium.jpg in Resources */,
 				B990C1C31A61BCDA0037EA6F /* logo.png in Resources */,
 				B990C1A81A61BC2C0037EA6F /* Main.storyboard in Resources */,
 				B990C1AD1A61BC2C0037EA6F /* LaunchScreen.xib in Resources */,
